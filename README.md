@@ -59,10 +59,16 @@ plt.show()
 ```
 
 ## Output:
-![319855596-f0907e87-5cd8-4cbf-90c6-af504e830ab2](https://github.com/vksachin2018/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149366019/0f1fbcae-6d82-437f-b198-722333e30863)
-![319855664-a29039cb-cc26-4a7e-be70-2406f346f241](https://github.com/vksachin2018/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149366019/410e83b2-3485-49d7-9529-bfd71f42ad01)
-![319855718-c5c471f5-ef23-4ab3-b510-68606602a4c0](https://github.com/vksachin2018/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149366019/4a184135-5214-48da-b422-b767dc93c34e)
-![319855823-9eebc765-f4a5-4e35-bd64-7c2425478e7d](https://github.com/vksachin2018/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149366019/2a5cce7b-6240-4c69-a604-86542b0a0881)
+![280373820-1db1e938-9d9d-4121-9f63-6dd77e01f1ac](https://github.com/vksachin2018/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149366019/ce5ec843-6cda-4d92-aadb-0b635c4932a0)
+![280373948-81134bd4-85bb-4809-babd-90fb83770104](https://github.com/vksachin2018/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149366019/763eb218-8b2a-4cb9-b7e0-ca941a6565e1)
+![280378600-54e9c59b-69ce-4599-924e-0d7cd7ba3d61](https://github.com/vksachin2018/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149366019/79f7b39f-2199-4ae9-858e-0b092cf5a0a7)
+
+![280378922-3ae61255-5974-4c9d-8412-3ae45d8cf60d](https://github.com/vksachin2018/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149366019/f32d1200-9ac7-45b4-8a1c-16b76f9f95b7)
+![280379034-199eec7f-580a-4b12-81eb-7a617e90ba18](https://github.com/vksachin2018/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149366019/b03e3079-e9bf-45cb-ba45-b0e425fec092)
+![280379192-991437fc-9ae1-4435-8a9d-b1f6cc5a05a1](https://github.com/vksachin2018/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149366019/efabf57d-455e-448a-b170-2ee9cfe5cc98)
+![280379312-085838db-697d-45e0-b61c-33c5428403ae](https://github.com/vksachin2018/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149366019/82f38c37-1b0b-478d-9935-0f66d4b03b44)
+
+
 
 
 

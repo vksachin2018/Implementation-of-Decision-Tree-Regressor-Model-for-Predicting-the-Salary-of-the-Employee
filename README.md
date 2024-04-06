@@ -9,9 +9,13 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm
 1.Import the required packagesprint the present data
+
 2.print the present data
+
 3.print the null value
+
 4.using decisiontreeRegressor, find the predicted values,mse,r2
+
 5.print the result 
 
 ## Program:
